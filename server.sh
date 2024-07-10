@@ -1,5 +1,5 @@
 
-#!/bin/bash
+
    sudo  yum update -y
    sudo  groupadd docker
    sudo  useradd John -aG docker 
